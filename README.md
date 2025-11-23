@@ -44,7 +44,8 @@
 
 <!-- Skills -->
 
-## 🚀 My Stacks
+<details>
+<summary><h2>🚀 My Stacks</h2></summary>
 
 👨‍💻 **Programming and Markup Languages**
 
@@ -124,3 +125,5 @@
 ![ISO 13485](https://img.shields.io/badge/ISO_13485-1565C0?logoColor=white)
 ![21 CFR 820](https://img.shields.io/badge/21_CFR_820-6A1B9A?logoColor=white)
 ![FDA ML](https://img.shields.io/badge/FDA_ML_Good_Practices-00796B?logoColor=white)
+
+</details>
