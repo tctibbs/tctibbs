@@ -5,10 +5,10 @@
   </a>
 </p>
 
-<!-- Typing SVG: one line at a time, so the box stays short and a full line is always showing -->
+<!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/tctibbs">
-    <img alt="Senior AI/ML Software Engineer" src="https://readme-typing-svg.demolab.com/?size=22&duration=3500&pause=1200&color=F75A51&font=Fira+Code&center=true&vCenter=true&width=760&height=45&lines=Senior+AI%2FML+Software+Engineer;Computer+Vision+%E2%80%A2+Reinforcement+Learning+%E2%80%A2+Edge+AI;Agent+infrastructure+%E2%80%A2+MCP+servers+%E2%80%A2+RAG;Benchmarking+models+on+NVIDIA+Jetson;Rock+Climber+%E2%80%A2+Cat+Dad+%E2%80%A2+Side+Project+Tinkerer;Always+in+development%2C+sometimes+in+the+mountains" />
+    <img src="https://readme-typing-svg.demolab.com/?size=22&duration=4500&pause=500&color=F75A51&font=Fira+Code&center=true&vCenter=true&multiline=true&width=850&height=120&lines=Senior+AI%2FML+Software+Engineer;AI%2FML+%E2%80%A2+Computer+Vision+%E2%80%A2+Embedded+Systems;Rock+Climber+%E2%80%A2+Cat+Dad+%E2%80%A2+Side+Project+Tinkerer;Always+in+development%2C+sometimes+in+the+mountains" />
   </a>
 </p>
 
