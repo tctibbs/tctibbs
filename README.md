@@ -8,7 +8,7 @@
 <!-- Typing SVG: one line at a time, so the box stays short and a full line is always showing -->
 <p align="center">
   <a href="https://github.com/tctibbs">
-    <img alt="Senior AI/ML Software Engineer" src="https://readme-typing-svg.demolab.com/?size=22&duration=3500&pause=1200&color=F75A51&font=Fira+Code&center=true&vCenter=true&width=650&height=45&lines=Senior+AI%2FML+Software+Engineer;Computer+Vision+%E2%80%A2+Reinforcement+Learning+%E2%80%A2+Edge+AI;Agent+infrastructure+%E2%80%A2+MCP+servers+%E2%80%A2+RAG;Benchmarking+models+on+NVIDIA+Jetson;Rock+Climber+%E2%80%A2+Cat+Dad+%E2%80%A2+Side+Project+Tinkerer;Always+in+development%2C+sometimes+in+the+mountains" />
+    <img alt="Senior AI/ML Software Engineer" src="https://readme-typing-svg.demolab.com/?size=22&duration=3500&pause=1200&color=F75A51&font=Fira+Code&center=true&vCenter=true&width=760&height=45&lines=Senior+AI%2FML+Software+Engineer;Computer+Vision+%E2%80%A2+Reinforcement+Learning+%E2%80%A2+Edge+AI;Agent+infrastructure+%E2%80%A2+MCP+servers+%E2%80%A2+RAG;Benchmarking+models+on+NVIDIA+Jetson;Rock+Climber+%E2%80%A2+Cat+Dad+%E2%80%A2+Side+Project+Tinkerer;Always+in+development%2C+sometimes+in+the+mountains" />
   </a>
 </p>
 
@@ -21,24 +21,14 @@
   <a href="https://github.com/sponsors/tctibbs"><img alt="Sponsor me" src="https://img.shields.io/badge/Sponsor-❤-F75A51?style=for-the-badge&logo=githubsponsors&logoColor=white" /></a>
 </p>
 
-<!-- Stats: shields.io instead of custom-icon-badges, whose GitHub token pool keeps running dry -->
+<!-- Stats: counts come from .github/workflows/stats.yml, which writes them to the stats branch daily -->
 <p align="center">
-  <a href="https://github.com/tctibbs?tab=repositories&sort=stargazers"><img alt="Total stars on GitHub" title="Total stars on GitHub" src="https://img.shields.io/github/stars/tctibbs?style=for-the-badge&logo=github&label=Stars&color=F75A51&labelColor=1F222E" /></a>
+  <a href="https://github.com/tctibbs?tab=repositories&sort=stargazers"><img alt="Total stars on GitHub" title="Total stars on GitHub" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftctibbs%2Ftctibbs%2Fstats%2Fstars.json&style=for-the-badge&logo=github&label=Stars&color=F75A51&labelColor=1F222E" /></a>
   &nbsp;
-  <a href="https://github.com/tctibbs?tab=followers"><img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/tctibbs?style=for-the-badge&logo=github&label=Follow&color=236ad3&labelColor=1155ba" /></a>
+  <a href="https://github.com/tctibbs?tab=followers"><img alt="GitHub followers" title="Follow me on GitHub" src="https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Ftctibbs%2Ftctibbs%2Fstats%2Ffollowers.json&style=for-the-badge&logo=github&label=Follow&color=236ad3&labelColor=1155ba" /></a>
   &nbsp;
   <img alt="Profile views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=tctibbs&style=for-the-badge&color=F75A51&label=Profile+views" />
 </p>
-
-## 🛠️ Recent projects
-
-| Project | What it is |
-|---|---|
-| [**efficientsam3-jetson-benchmark**](https://github.com/tctibbs/efficientsam3-jetson-benchmark) | Speed, memory, power and accuracy of EfficientSAM3 on a Jetson Orin Nano Super, with text and box prompts on COCO. |
-| [**donkey-kong-rl**](https://github.com/tctibbs/donkey-kong-rl) | PPO plus self-imitation learning on Atari Donkey Kong, from 4k to a 59.5k best episode on one GTX 1080 Ti. |
-| [**TrendXiv**](https://github.com/tctibbs/TrendXiv) | Which arXiv topics are really growing, from all 3.1M papers. A weekly DuckDB build feeding a static GitHub Pages site. |
-| [**wolf-run**](https://github.com/tctibbs/wolf-run) | A Raspberry Pi touchscreen game for a Halloween escape room, ending on a live RTSP camera feed. |
-| [**dotfiles**](https://github.com/tctibbs/dotfiles) | chezmoi-managed WezTerm, tmux, Starship and zsh setup for macOS, Linux and Windows. |
 
 <!-- Skills -->
 
